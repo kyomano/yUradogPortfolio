@@ -158,8 +158,6 @@
         f = [
           "Serhii Rysikov",
           "Web3 & AI Developer",
-          "Javascript Enthusiast",
-          "Web3 & AI Developer",
         ],
         u = "tomindev520@gmail.com";
       function G() {
