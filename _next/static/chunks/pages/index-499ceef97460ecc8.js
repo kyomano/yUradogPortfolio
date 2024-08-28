@@ -44,7 +44,7 @@
                   className:
                     "text-md cursor-pointer font-lato font-semibold tracking-widest md:text-2xl",
                   onClick: e,
-                  children: "<Serhii Rysikov />",
+                  children: "<Illia Melnychenko />",
                 }),
               }),
               (0, t.jsx)(o.E.div, {
@@ -156,7 +156,7 @@
           },
         ],
         f = [
-          "Serhii Rysikov",
+          "Illia Melnychenko",
           "Web3 & AI Developer",
         ],
         u = "tomindev520@gmail.com";
@@ -1369,7 +1369,7 @@
         let i = (0, t.jsx)(t.Fragment, {
           children: (0, t.jsx)("title", {
             children:
-              "Hello I am Serhii Rysikov | Full Stack Developer | Javascript Enthusiast | Blockchain developer",
+              "Hello I am Illia Melnychenko | Full Stack Developer | Javascript Enthusiast | Blockchain developer",
           }),
         });
         return (0, t.jsxs)(c, {
