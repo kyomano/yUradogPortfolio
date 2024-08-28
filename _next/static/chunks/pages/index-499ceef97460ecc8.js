@@ -56,7 +56,7 @@
                   children: [
                     (0, t.jsx)("li", {
                       children: (0, t.jsx)("a", {
-                        href: "https://drive.google.com/file/d/1d7sHmbBvfBKdv2rYqVz_fOCwPQP2q3fq/view?usp=drive_link",
+                        href: "./resume.pdf",
                         target: "_blank",
                         rel: "noreferrer",
                         className: "text-sm xs:text-base",
