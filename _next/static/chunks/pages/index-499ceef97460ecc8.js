@@ -44,7 +44,7 @@
                   className:
                     "text-md cursor-pointer font-lato font-semibold tracking-widest md:text-2xl",
                   onClick: e,
-                  children: "<Illia Melnychenko />",
+                  children: "<Kein Ichiro />",
                 }),
               }),
               (0, t.jsx)(o.E.div, {
@@ -156,7 +156,7 @@
           },
         ],
         f = [
-          "Illia Melnychenko",
+          "Kein Ichiro",
           "Web3 & AI Developer",
         ],
         u = "tomindev520@gmail.com";
@@ -1346,9 +1346,9 @@
                                   "inline-block text-lg mr-1 text-primary-700 dark:text-primary-300",
                                 icon: "bytesize:location",
                               }),
-                              "Kirovohrad Oblast",
+                              "",
                               (0, t.jsx)("br", {}),
-                              "Ukraine",
+                              "Canada",
                             ],
                           }),
                           (0, t.jsx)("div", {
@@ -1369,7 +1369,7 @@
         let i = (0, t.jsx)(t.Fragment, {
           children: (0, t.jsx)("title", {
             children:
-              "Hello I am Illia Melnychenko | Full Stack Developer | Javascript Enthusiast | Blockchain developer",
+              "Hello I am Kein Ichiro | Full Stack Developer | Javascript Enthusiast | Blockchain developer",
           }),
         });
         return (0, t.jsxs)(c, {
